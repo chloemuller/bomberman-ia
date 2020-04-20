@@ -14,4 +14,4 @@ Les déplacements, normalement continus, ont été discrétisés par une méthod
 
 ## Détails
 
-Ici lancer le fichier bomberman_stratégie.py lance un combat entre deux joueurs codés par l'IA bomberman_strategie.py
+Ici lancer le fichier bomberman-simulation.py lance un combat entre deux joueurs codés par l'IA bomberman_strategie.py
